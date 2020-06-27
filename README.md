@@ -14,3 +14,5 @@ Between each L, those happen below:
     3) activation function applied: sigma(z) - output of Z is given to activation function
     4) output is activation function is given to next neuron - layer
     """
+
+![Backpropogation Step4](https://user-images.githubusercontent.com/57037068/85925922-a75d0b80-b8ac-11ea-84e4-ea257f55a51a.PNG)
